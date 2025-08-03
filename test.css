@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    font-style: italic;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    align-items: center;
+    background: linear-gradient(to right,#1f3631,#1199e7);
+    
+}
+.zz div {
+    background: linear-gradient(to right , #a6d931, #15d2a3);
+    border: 3px solid rgb(0, 0, 0);
+    border-radius:12px;
+    padding: 5px;
+    margin: 15px auto;
+    width: 200px;
+}
+.zz img {
+    
+  width: 80px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+box-shadow: 0 0 10px #000000;
+}
+
